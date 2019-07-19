@@ -8,7 +8,7 @@ setup(
   author = 'Lukas Schmid',
   author_email = 'dimschlukas@gmail.com',
   url = 'https://github.com/dimschlukas/rpi_python_drv8825',
-  download_url = 'https://github.com/dimschlukas/rpi_python_drv8825/archive/v_01.tar.gz',
+  download_url = 'https://github.com/dimschlukas/rpi_python_drv8825/archive/v0.1-alpha.tar.gz',
   keywords = ['drv8825', 'control', 'steppermotor', 'stepper', 'motor', 'Raspberry', 'Pi'],
   install_requires=[
           'RPi.GPIO',
