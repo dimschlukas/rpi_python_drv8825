@@ -3,7 +3,7 @@ Python Library to controll a stepper motor with a DRV8825 driver connected to a 
 
 ### install
 ```
-$ pip install rpi_python_rdv8825
+$ pip install rpi_python_drv8825
 ```
 or clone repository
 
